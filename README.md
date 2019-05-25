@@ -1,2 +1,2 @@
-# Obasa_Ifekitan_SVGIconSet
+# Obasa_Ifek
 Using SVG Artwork and JavaScript Events
